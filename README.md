@@ -24,7 +24,7 @@ Musashi University 3年生 / University of London Parallel Degree Program 在籍
 
 ## 実績・プロジェクト
 ### 学習記録アプリケーション
-[ここにあなたのGitHubのリポジトリURLを貼ってください]
+［https://github.com/KosukeInoue-Tech/study-log-app］
 * **概要:** 自身の学習進捗を記録・管理するために開発。
 * **工夫した点:** 実践的なスキル習得のため、Ruby on Railsを用いてゼロから実装を行いました。
 * **学び:** Web開発の基礎的なフローと、Git/GitHubを通じたバージョン管理を習得。
