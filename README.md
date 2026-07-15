@@ -2,8 +2,7 @@
 
 # My Portfolio & Projects
 
-## サイトのプレビュー
-![ポートフォリオのスクリーンショット](https://github.com/KosukeInoue-Tech/my-portfolio/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-07-15%20142204.png)
+
 ## 自己紹介
 井上 晃輔 (Kousuke Inoue)
 Musashi University 3年生 / University of London Parallel Degree Program 在籍中。
@@ -31,6 +30,10 @@ Musashi University 3年生 / University of London Parallel Degree Program 在籍
 * **工夫した点:** 実践的なスキル習得のため、Ruby on Railsを用いてゼロから実装を行いました。
 * **学び:** Web開発の基礎的なフローと、Git/GitHubを通じたバージョン管理を習得。
 
+## サイトのプレビュー
+![ポートフォリオのスクリーンショット](https://github.com/KosukeInoue-Tech/my-portfolio/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-07-15%20142121.png)
+
+![ポートフォリオのスクリーンショット](https://github.com/KosukeInoue-Tech/my-portfolio/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-07-15%20142204.png)
 ## 今後の展望
 IT、会計、統計の知見を融合させたWebメディアビジネスの立ち上げを目指しています。また、コンサルティング領域において、成果に基づいた評価環境で高いパフォーマンスを発揮したいと考えています。
 
