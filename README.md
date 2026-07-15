@@ -3,7 +3,7 @@
 # My Portfolio & Projects
 
 ## 自己紹介
-井上 康介 (Kousuke Inoue)
+井上 晃輔 (Kousuke Inoue)
 Musashi University 3年生 / University of London Parallel Degree Program 在籍中。
 
 ## プロフィール概要
