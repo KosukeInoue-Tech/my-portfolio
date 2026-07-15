@@ -2,6 +2,8 @@
 
 # My Portfolio & Projects
 
+## サイトのプレビュー
+![ポートフォリオのスクリーンショット](https://github.com/KosukeInoue-Tech/my-portfolio/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202026-07-15%20142204.png)
 ## 自己紹介
 井上 晃輔 (Kousuke Inoue)
 Musashi University 3年生 / University of London Parallel Degree Program 在籍中。
